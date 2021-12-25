@@ -1,4 +1,4 @@
-Drugs.com reviews dataset sentiment analysis using Recurrent Neural Networks(RNNs)
+Sentiment Analysis of Drugs reviews dataset using Recurrent Neural Networks(RNNs)
 
 Problem Definition- Classification of drug reviews(whether it is a positive/negative review) to determine their sentiments using Python libraries- word embeddings and Natural Language Toolkit,Textblob, Long-Short-Term-Memory(LSTM) RNNs. Achieve the binary classification of opinion/feedback shared by users to determine the usefulness of drugs.
 
